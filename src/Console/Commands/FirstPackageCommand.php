@@ -13,6 +13,6 @@ final class FirstPackageCommand extends Command
 
     public function handle()
     {
-        $this->info("practice");
+        $this->info("it's practice package");
     }
 }

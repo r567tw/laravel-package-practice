@@ -23,6 +23,7 @@
         "optimize-autoloader": true
     },
     "require-dev": {
+        "orchestra/testbench": "^7.6",
         "phpunit/phpunit": "^9.5"
     }
 }
